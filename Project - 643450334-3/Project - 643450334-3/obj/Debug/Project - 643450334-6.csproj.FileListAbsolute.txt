@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\bin\Debug\Project - 643450334-6.exe.config
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\bin\Debug\Project - 643450334-6.exe
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\bin\Debug\Project - 643450334-6.pdb
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project - 643450334-6.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project - 643450334-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project___643450334_6.Form1.resources
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project___643450334_6.Properties.Resources.resources
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project - 643450334-6.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project - 643450334-6.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project - 643450334-6.exe
+C:\Users\ACER\source\repos\Project - 643450334-6\Project - 643450334-6\obj\Debug\Project - 643450334-6.pdb
